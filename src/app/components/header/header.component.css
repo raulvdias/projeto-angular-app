@@ -35,8 +35,9 @@ nav{
 
 #add a{
     color: #dec129;
+    transition: 0.5s;
 }
 
 #add a:hover{
-    background-color: rgb(246, 247, 208);
+    font-weight: bold;
 }
