@@ -1,0 +1,29 @@
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid black;
+    padding: 1em;
+}
+
+footer h3, p{
+    margin-right: 0.3em;
+}
+
+.redes{
+    margin-left: 0.5em;
+}
+
+.redes a{
+    margin-right: 1em;
+}
+
+#instalogo{
+    height: 1em;
+    width: 1em;
+}
+
+#twitterlogo{
+    height: 1em;
+    width: 1.2em;
+}
