@@ -35,3 +35,5 @@ export class NewMomentComponent implements OnInit {
     //redirect
   }
 }
+
+a
